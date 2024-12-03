@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts * PROD * related APIs"
+  contactDetails:
+    name: "John Cleese - CEO"
+    email: "john.cleese@eazybank.com"
+  onCallSupport:
+    - (555) 555-54321
+    - (555) 555-98765
