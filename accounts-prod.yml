@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts * production wtf * related APIs"
+  message: "Welcome to EazyBank accounts * production * related APIs"
   contactDetails:
     name: "John Cleese - CEO"
     email: "{cipher}b50a322239c00d778c975dd58c655ec1021f09f5ed90d51b08f78dbd70e2117a733097ded9fb1221e09177171b37d322"
