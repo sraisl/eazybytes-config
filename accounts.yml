@@ -29,7 +29,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related APIs - !"
+  message: "!- Welcome to EazyBank accounts related APIs -!"
   contactDetails:
     name: "John Doe - developer"
     email: "john.doe@eazybank.com"
